@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/workspace_assemblyai.iml" filepath="$PROJECT_DIR$/workspace_assemblyai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace_texttospeech.iml" filepath="$PROJECT_DIR$/workspace_texttospeech.iml" />
     </modules>
   </component>
 </project>
